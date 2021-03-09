@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "swellaby.rust-pack",
+        "rust-lang.rust",
+        "vadimcn.vscode-lldb"
+    ]
+}
